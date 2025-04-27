@@ -56,12 +56,9 @@
 
 ---
 
-## 🌐 Join the Community
+## 🌐 Recommendation
 
-- 💬 [Discord](https://discord.gg/yourinvite)
-- 📢 [Telegram News](https://t.me/oxygenuupdates)
-
-Get support, script recommendations, and community updates!
+- You could also try Solara: https://github.com/HJnoJJ/Solara-Executor
 
 ---
 
